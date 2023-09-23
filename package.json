@@ -1,0 +1,17 @@
+{
+  "name": "stupid-fucking-bot",
+  "version": "1.0.0",
+  "description": "botting for a bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "frakits and some other people",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "ini": "^4.1.1",
+    "xmlbuilder": "^15.1.1",
+    "xmlbuilder2": "^3.1.1"
+  }
+}
